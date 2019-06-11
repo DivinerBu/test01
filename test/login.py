@@ -1,2 +1,3 @@
-print('hello world, hello 经理')
+print('hello world, hello 张三')
 num = 10
+num2 = 20
