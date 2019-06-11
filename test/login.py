@@ -1,1 +1,2 @@
-print('hello world')
+print('hello world, hello 经理')
+num = 10
